@@ -26,12 +26,10 @@
    <img align="center" alt="beto-Node" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="beto-SQL" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-  
-  ##
    
     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   ##
   
-  <a href="https://www.linkedin.com/in/alberto-souza-b4a1451b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                badge&logo=linkedin&logoColor=white" target="_blank" width="80px" height="50px" align="center"></a> 
-  <a href="https://wa.me/5511950427159" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"         target="_blank" width="80px" height="50px" align="center"></img></a>
+  <a href="https://www.linkedin.com/in/alberto-souza-b4a1451b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                badge&logo=linkedin&logoColor=white" target="_blank" width="80px" height="100px" align="center"></a> 
+  <a href="https://wa.me/5511950427159" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"         target="_blank" width="100px" height="30px" align="center"></img></a>
