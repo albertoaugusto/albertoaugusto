@@ -6,7 +6,7 @@
 ##
 
  <div style="display: inline_block" align="center">
-  <a href="https://github.com/Torbenn">
+  <a href="https://github.com/albertoaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoaugusto&layout=compact&theme=tokyonight"/>
@@ -29,7 +29,7 @@
 </div>
   
   ##
-  <div style="align:center">
+  <div align="center">
     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
   ##
