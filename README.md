@@ -28,6 +28,8 @@
 </div>
 
   ##
-  
-  <a href="https://www.linkedin.com/in/alberto-souza-b4a1451b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                badge&logo=linkedin&logoColor=white" target="blank" width="100px" height="30px" align="center"></a> 
-  <a href="https://wa.me/5511950427159" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"         target="_blank" width="100px" height="30px" align="center"></img></a>
+ 
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alberto-souza-b4a1451b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-               badge&logo=linkedin&logoColor=white" target="blank" width="100px" height="30px"></a> 
+    <a href="https://wa.me/5511950427159" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"         target="_blank" width="100px" height="30px"></img></a>
+  </div>
