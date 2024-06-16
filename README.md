@@ -1,35 +1,37 @@
-### Hi, my name is Alberto!
 
-- 🔭 Front End Developer
-- 📫 Email: albertosouza16.contato@gmail.com
+<img width=100% src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/c8733139-4a67-4562-8a76-a98578b0263c">
 
-##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=35&duration=4500&pause=50&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=80&separator=%3C&lines=Hey+There%2C+I'm+Alberto!%3CWelcome+to+my+GitHub+;)" alt="Typing SVG" /></a>
 
- <div style="display: inline_block" align="center">
-  <a href="https://github.com/albertoaugusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoaugusto&layout=compact&theme=tokyonight"/>
+## Front End
+
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=html5&labelColor=fff&color=e34f26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css3&labelColor=3178c6&color=%233178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/SASS-SASS?style=for-the-badge&logo=sass&logoSize=auto&labelColor=fff&color=cc6699"> <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-javascript?style=for-the-badge&logo=javascript&labelColor=%23fff&color=%23f7df1e"> <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-typescript?style=for-the-badge&logo=typescript&labelColor=%23fff&color=%233178c6">
+
+## Back End 
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON-JSON?style=for-the-badge&logo=json&logoSize=auto&labelColor=fff&color=353535"> <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-node?style=for-the-badge&logo=node.js&logoSize=auto&labelColor=fff&color=87bf00"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-Java?style=for-the-badge&logoSize=auto&labelColor=fff&color=447699"> <img alt="Static Badge" src="https://img.shields.io/badge/php-PHP?style=for-the-badge&logo=php&logoSize=auto&labelColor=fff&color=777bb4"> 
+      
+## Database
+<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-sql?style=for-the-badge&logo=mysql&logoSize=auto&labelColor=fff&color=086590"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-mongo?style=for-the-badge&logo=mongodb&logoSize=auto&labelColor=fff&color=1aad57">
+
+## Cloud
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS-aws?style=for-the-badge&logo=amazonwebservices&logoSize=auto&color=ff9c08">
+
+##  Frameworks
+<img alt="Static Badge" src="https://img.shields.io/badge/React-react?style=for-the-badge&logo=react&logoSize=auto&labelColor=fff&color=61dafb"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-bootstrap?style=for-the-badge&logo=bootstrap&logoSize=auto&labelColor=fff&color=880afb"> <img alt="Static Badge" src="https://img.shields.io/badge/Jquery-jquery?style=for-the-badge&logo=jquery&logoSize=auto&labelColor=fff&color=3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/Next.JS-next?style=for-the-badge&logo=next.js&logoSize=auto&labelColor=fff&color=000">
+
+## Contacts
+<a href="https://www.linkedin.com/in/albertoasouza/"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-in?style=for-the-badge&logo=linkedin&logoSize=auto&color=0a66c2" target="_blank"/> <a href="mailto:albertosouza16.contato@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=albertoaugusto&bg_color=0D1117&color=6E34D5&point=ffffff&title=&hide_border=true)](https://github.com/albertoaugusto/github-readme-activity-graph)
+
+<div align="center"> 
+ <a href="https://github.com/albertoaugusto"> 
+<img loading="lazy" width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img loading="lazy"  width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
+<p></p>
 </div>
-  
-  ##
-  
-<div style="display: inline_block" align="center"><br>
-   <img align="center" alt="beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="beto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="beto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="beto-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-   <img align="center" alt="beto-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-   <img align="center" alt="beto-Git" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="beto-Node" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="beto-SQL" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
 
-  ##
  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/alberto-souza-b4a1451b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-               badge&logo=linkedin&logoColor=white" target="blank" width="100px" height="30px"></a> 
-    <a href="https://wa.me/5511950427159" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"         target="_blank" width="100px" height="30px"></img></a>
-  </div>
+<img width=100% src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/4cae6979-23fe-4a2a-96ff-f7c974b7ca22">       
+
+        
